@@ -1,7 +1,4 @@
 # testClone
 test push
 add new line
-
-feature1 is done.
-
-
+ok, ok, i use your feature1.feature1.
